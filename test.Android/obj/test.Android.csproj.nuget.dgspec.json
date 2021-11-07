@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sayh2511/Projects/test/test.Android/test.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/sayh2511/Projects/test/test.Android/test.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sayh2511/Projects/test/test.Android/test.Android.csproj",
+        "projectName": "test.Android",
+        "projectPath": "/Users/sayh2511/Projects/test/test.Android/test.Android.csproj",
+        "packagesPath": "/Users/sayh2511/.nuget/packages/",
+        "outputPath": "/Users/sayh2511/Projects/test/test.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/sayh2511/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://schwarzit.pkgs.visualstudio.com/_packaging/Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/sayh2511/Projects/test/test/test.csproj": {
+                "projectPath": "/Users/sayh2511/Projects/test/test/test.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "FFmpeg.Nightly": {
+              "target": "Package",
+              "version": "[20200831.1.0, )"
+            },
+            "Xabe.FFmpeg": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/sayh2511/Projects/test/test/test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sayh2511/Projects/test/test/test.csproj",
+        "projectName": "test",
+        "projectPath": "/Users/sayh2511/Projects/test/test/test.csproj",
+        "packagesPath": "/Users/sayh2511/.nuget/packages/",
+        "outputPath": "/Users/sayh2511/Projects/test/test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sayh2511/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://schwarzit.pkgs.visualstudio.com/_packaging/Packages/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FFmpeg.Nightly": {
+              "target": "Package",
+              "version": "[20200831.1.0, )"
+            },
+            "Octane.Xam.VideoPlayer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Xabe.FFmpeg": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            },
+            "Xamarin.Plugin.FilePicker": {
+              "target": "Package",
+              "version": "[2.1.41, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.csproj.AssemblyReference.cache
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.AssemblyInfoInputs.cache
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.AssemblyInfo.cs
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.csproj.CoreCompileInputs.cache
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.dll
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/ref/test.dll
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.0/test.pdb

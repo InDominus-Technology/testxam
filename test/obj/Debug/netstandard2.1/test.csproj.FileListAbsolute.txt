@@ -1,0 +1,16 @@
+/Users/sayh2511/Projects/test/test/bin/Debug/netstandard2.1/test.deps.json
+/Users/sayh2511/Projects/test/test/bin/Debug/netstandard2.1/test.dll
+/Users/sayh2511/Projects/test/test/bin/Debug/netstandard2.1/ref/test.dll
+/Users/sayh2511/Projects/test/test/bin/Debug/netstandard2.1/test.pdb
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.csproj.AssemblyReference.cache
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/App.xaml.g.cs
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/MainPage.xaml.g.cs
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.AssemblyInfoInputs.cache
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.AssemblyInfo.cs
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.csproj.CoreCompileInputs.cache
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/XamlC.stamp
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.dll
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/ref/test.dll
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/test.pdb
+/Users/sayh2511/Projects/test/test/obj/Debug/netstandard2.1/MyListViewPage.xaml.g.cs

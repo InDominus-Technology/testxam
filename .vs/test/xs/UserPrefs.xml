@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{FECD1C94-BD3E-4938-BA2A-0CCDFE9B6C39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/MyListViewPage.xaml.cs">
+    <Files>
+      <File FileName="test.iOS/EmptyClass.cs" Line="61" Column="24" />
+      <File FileName="test/MyListViewPage.xaml.cs" Line="11" Column="1" />
+      <File FileName="test/MyListViewPage.xaml" Line="9" Column="12" />
+      <File FileName="test/MainPage.xaml.cs" Line="20" Column="62" />
+      <File FileName="test.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MyListViewPage.xaml" expanded="True" />
+            </Node>
+            <Node name="test.Android" expanded="True" />
+            <Node name="test.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.032A65E1-4630-4C86-A21C-B611271F7355" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_4_API_30" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.test.Android PreferredExecutionTarget="Android.Pixel_4_API_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

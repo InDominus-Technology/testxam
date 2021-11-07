@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ur9n8mWUevVtAfUGi3+518Hx4jdTyB5lmLykrt0GGbOWR6uxCEn1pbGVVQvnaaKFytBtHkk1Jq5CeAqNx63dqg==",
+  "success": true,
+  "projectFilePath": "/Users/sayh2511/Projects/test/test.iOS/test.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/sayh2511/.nuget/packages/ffmpeg.nightly/20200831.1.0/ffmpeg.nightly.20200831.1.0.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/newtonsoft.json/9.0.1/newtonsoft.json.9.0.1.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/octane.xam.videoplayer/3.1.0/octane.xam.videoplayer.3.1.0.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/xabe.ffmpeg/5.0.2/xabe.ffmpeg.5.0.2.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/xam.plugin.media/5.0.1/xam.plugin.media.5.0.1.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/xamarin.communitytoolkit/1.3.0/xamarin.communitytoolkit.1.3.0.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "/Users/sayh2511/.nuget/packages/xamarin.plugin.filepicker/2.1.41/xamarin.plugin.filepicker.2.1.41.nupkg.sha512"
+  ],
+  "logs": []
+}
